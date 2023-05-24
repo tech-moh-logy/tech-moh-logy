@@ -10,5 +10,5 @@ Python <br>
 HTML <br>
 CSS (in-progress) <br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/tech-moh-logy)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tech-moh-logy)  
 
