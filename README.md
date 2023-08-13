@@ -11,4 +11,7 @@ I still recall the day when I first became inquisitive about coding. I was brows
   • JavaScript (in-progress) <br>
   • SQL (in-progress) <br> <hr>
 
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=tech-moh-logy&theme=dark&hide_border=false)<br/>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tech-moh-logy)  
