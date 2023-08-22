@@ -12,8 +12,15 @@ I still recall the day when I first became inquisitive about coding. I was brows
   • CSS <br>
   • JavaScript (in-progress) <br>
   • SQL (in-progress) <br>
-  • Swift (in-progress) <br> <hr>
-  
+  • Swift (in-progress) <br> 
+
+<hr>
+
+## Technical Skills: 
+  • Video Editing <br>
+  • Writing <br>
+
+<hr>
 
 ## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tech-moh-logy&theme=dark&hide_border=false)<br/>
