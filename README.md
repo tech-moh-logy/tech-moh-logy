@@ -13,11 +13,11 @@
 ## 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴:
 𝘊𝘭𝘪𝘤𝘬 𝘰𝘯 𝘵𝘩𝘦 𝘱𝘪𝘤𝘵𝘶𝘳𝘦𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘮𝘰𝘳𝘦! 
 
-<br>
+<br> 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙒𝙚𝙗𝙨𝙞𝙩𝙚:
 
 <img width="1428" alt="iWorld" src="https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/fda5aea7-b863-48cf-baba-705b14e048cc">
 
-<br>
+<br> 𝘼𝘾𝙏𝙄𝙁𝙄𝙓 𝙛𝙤𝙧 𝘾𝙤𝙙𝙚𝙋𝙖𝙩𝙝:
 
 [![ACTIFIX](https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/ca97a2e1-03f5-4aee-956d-fec16f05a13c)](https://www.loom.com/share/ec8601a75b024699a3802439ccdc7e09?sid=9a1d2d46-dfac-4a88-9f89-5a1abd725927)
 
