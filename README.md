@@ -10,6 +10,28 @@
 
 <br>
 
+<!--START_SECTION-->
+
+``` javascript
+// Meet Mohammed U, a versatile software developer and product designer!
+
+const mohammedU = {
+  // Pronouns Mohammed uses
+  pronouns: ["he/him", "they/them"],
+  
+  // Programming languages Mohammed is proficient in
+  languages: ["JavaScript", "Python", "C++", "HTML", "CSS"],
+  
+  // Tools and frameworks Mohammed works with
+  tools: ["React", "Redux", "Node.js", "Bootstrap", "Tailwind CSS", "SASS"]
+};
+
+// 💼 Interested in collaborating or learning more about Mohammed's skills? Reach out on LinkedIn!
+
+```
+
+<!--END_SECTION>-->
+
 ## 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴:
 𝘊𝘭𝘪𝘤𝘬 𝘰𝘯 𝘵𝘩𝘦 𝘱𝘪𝘤𝘵𝘶𝘳𝘦𝘴 𝘵𝘰 𝘭𝘦𝘢𝘳𝘯 𝘮𝘰𝘳𝘦! 
 
@@ -24,30 +46,6 @@
 <br> 𝘼𝘾𝙏𝙄𝙁𝙄𝙓 𝙛𝙤𝙧 𝘾𝙤𝙙𝙚𝙋𝙖𝙩𝙝:
 
 [![ACTIFIX](https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/ca97a2e1-03f5-4aee-956d-fec16f05a13c)](https://www.loom.com/share/ec8601a75b024699a3802439ccdc7e09?sid=9a1d2d46-dfac-4a88-9f89-5a1abd725927)
-
-<br>
-
-## 𝘛𝘩𝘦 𝘋𝘪𝘴𝘤𝘰𝘷𝘦𝘳𝘺:
-𝘐 𝘴𝘵𝘪𝘭𝘭 𝘳𝘦𝘤𝘢𝘭𝘭 𝘵𝘩𝘦 𝘥𝘢𝘺 𝘸𝘩𝘦𝘯 𝘐 𝘧𝘪𝘳𝘴𝘵 𝘣𝘦𝘤𝘢𝘮𝘦 𝘪𝘯𝘲𝘶𝘪𝘴𝘪𝘵𝘪𝘷𝘦 𝘢𝘣𝘰𝘶𝘵 𝘤𝘰𝘥𝘪𝘯𝘨. 𝘐 𝘸𝘢𝘴 𝘣𝘳𝘰𝘸𝘴𝘪𝘯𝘨 𝘵𝘩𝘦 𝘪𝘯𝘵𝘦𝘳𝘯𝘦𝘵 𝘢𝘯𝘥 𝘐 𝘴𝘵𝘶𝘮𝘣𝘭𝘦𝘥 𝘶𝘱𝘰𝘯 𝘢𝘯 𝘢𝘳𝘵𝘪𝘤𝘭𝘦 𝘢𝘣𝘰𝘶𝘵 𝘩𝘰𝘸 𝘤𝘰𝘥𝘪𝘯𝘨 𝘪𝘴 𝘵𝘩𝘦 𝘧𝘶𝘵𝘶𝘳𝘦 𝘰𝘧 𝘵𝘦𝘤𝘩𝘯𝘰𝘭𝘰𝘨𝘺. 𝘐 𝘸𝘢𝘴 𝘪𝘯𝘵𝘳𝘪𝘨𝘶𝘦𝘥, 𝘣𝘶𝘵 𝘐 𝘩𝘢𝘥 𝘯𝘰 𝘪𝘥𝘦𝘢 𝘸𝘩𝘢𝘵 𝘤𝘰𝘥𝘪𝘯𝘨 𝘸𝘢𝘴 𝘢𝘭𝘭 𝘢𝘣𝘰𝘶𝘵. 𝘛𝘩𝘢𝘵 𝘪𝘴 𝘸𝘩𝘦𝘯 𝘐 𝘥𝘦𝘤𝘪𝘥𝘦𝘥 𝘵𝘰 𝘥𝘰 𝘴𝘰𝘮𝘦 𝘳𝘦𝘴𝘦𝘢𝘳𝘤𝘩. 𝘐 𝘳𝘦𝘢𝘥 𝘢𝘣𝘰𝘶𝘵 𝘩𝘰𝘸 𝘤𝘰𝘥𝘪𝘯𝘨 𝘪𝘴 𝘢 𝘭𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘵𝘩𝘢𝘵 𝘢𝘭𝘭𝘰𝘸𝘴 𝘺𝘰𝘶 𝘵𝘰 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘦 𝘸𝘪𝘵𝘩 𝘤𝘰𝘮𝘱𝘶𝘵𝘦𝘳𝘴 𝘢𝘯𝘥 𝘩𝘰𝘸 𝘪𝘵 𝘪𝘴 𝘶𝘴𝘦𝘥 𝘵𝘰 𝘤𝘳𝘦𝘢𝘵𝘦 𝘸𝘦𝘣𝘴𝘪𝘵𝘦𝘴, 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘢𝘯𝘥 𝘮𝘰𝘣𝘪𝘭𝘦 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴. 𝘐 𝘸𝘢𝘴 𝘢𝘮𝘢𝘻𝘦𝘥 𝘣𝘺 𝘵𝘩𝘦 𝘦𝘯𝘥𝘭𝘦𝘴𝘴 𝘱𝘰𝘴𝘴𝘪𝘣𝘪𝘭𝘪𝘵𝘪𝘦𝘴. 𝘉𝘶𝘵 𝘵𝘩𝘦 𝘮𝘰𝘳𝘦 𝘐 𝘳𝘦𝘢𝘥, 𝘵𝘩𝘦 𝘮𝘰𝘳𝘦 𝘐 𝘳𝘦𝘢𝘭𝘪𝘻𝘦𝘥 𝘵𝘩𝘢𝘵 𝘤𝘰𝘥𝘪𝘯𝘨 𝘸𝘢𝘴 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘢 𝘴𝘬𝘪𝘭𝘭, 𝘪𝘵 𝘸𝘢𝘴 𝘢𝘯 𝘢𝘳𝘵. 𝘐𝘵 𝘸𝘢𝘴 𝘯𝘰𝘵 𝘫𝘶𝘴𝘵 𝘢𝘣𝘰𝘶𝘵 𝘵𝘺𝘱𝘪𝘯𝘨 𝘭𝘪𝘯𝘦𝘴 𝘰𝘧 𝘤𝘰𝘥𝘦, 𝘣𝘶𝘵 𝘢𝘭𝘴𝘰 𝘢𝘣𝘰𝘶𝘵 𝘴𝘰𝘭𝘷𝘪𝘯𝘨 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴, 𝘤𝘳𝘦𝘢𝘵𝘪𝘯𝘨 𝘯𝘦𝘸 𝘵𝘩𝘪𝘯𝘨𝘴, 𝘢𝘯𝘥 𝘴𝘩𝘢𝘱𝘪𝘯𝘨 𝘵𝘩𝘦 𝘧𝘶𝘵𝘶𝘳𝘦. 
-
-<br>
-
-## 𝘛𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦𝘴𝘴: 
-  • 𝘊++ <br>
-  • 𝘗𝘺𝘵𝘩𝘰𝘯 <br>
-  • 𝘏𝘛𝘔𝘓 <br>
-  • 𝘊𝘚𝘚 <br>
-  • 𝘑𝘢𝘷𝘢𝘚𝘤𝘳𝘪𝘱𝘵 (𝘪𝘯-𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴) <br>
-  • 𝘚𝘘𝘓 (𝘪𝘯-𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴) <br>
-  • 𝘚𝘸𝘪𝘧𝘵 (𝘪𝘯-𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴) <br>
-  • 𝘛𝘢𝘣𝘭𝘦𝘢𝘶 <br>
-
-<br>
-
-## 𝘛𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘚𝘬𝘪𝘭𝘭𝘴: 
-  • 𝘝𝘪𝘥𝘦𝘰 𝘌𝘥𝘪𝘵𝘪𝘯𝘨 <br>
-  • 𝘞𝘳𝘪𝘵𝘪𝘯𝘨 <br> 
-  • 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨 <br>
 
 <br>
 
