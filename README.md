@@ -1,6 +1,8 @@
 <img src="https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/6bf4697b-c454-4bc0-9fb9-bf66f6f36831" alt="MOHAMMED" width="100%">
 
-<h2 align="center">Software Developer + Product Designer</h2>
+<h2 align="center">Software Developer</h2>
+<h2 align="center">Product Designer</h2>
+<h2 align="center">Data Analyst</h2>
 
 <div align="center">
   <h4>
@@ -19,7 +21,7 @@
 
 const mohammedU = {
   // Pronouns Mohammed uses
-  pronouns: ["developer", "designer"],
+  pronouns: ["Developer", "Designer"],
   
   // Programming languages Mohammed is proficient in
   languages: ["JavaScript", "Python", "C++", "HTML", "CSS"],
@@ -33,6 +35,3 @@ const mohammedU = {
 ```
 
 <!--END_SECTION>-->
-<div align="center"
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tech-moh-logy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://github.com/tech-moh-logy)
-</div>
