@@ -2,11 +2,13 @@
 
 <br>
 
-## Hi.
-
-I am a technically adept and experienced individual with a passion for education and designing innovative solutions. I bring a proactive ability to harness diverse tools and technologies to solve problems and craft engaging, informative content. Eager to leverage my skills and experience in a technical internship where I can make a meaningful impact.
-
-Take a look at my portfolio to see the projects I've worked on and the skills I've developed.
+<div align="center">
+  <h3>
+    I am a technically adept and experienced individual with a passion for education and designing innovative solutions. I bring a proactive ability to harness diverse tools and technologies to solve problems and craft engaging, informative content. Eager to leverage my skills and experience in a technical internship where I can make a meaningful impact.
+      <br>
+    Take a look at my portfolio to see the projects I've worked on and the skills I've developed.
+  </h3>
+</div>
 
 <br>
 
