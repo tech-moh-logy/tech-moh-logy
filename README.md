@@ -1,9 +1,5 @@
 <img src="https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/6bf4697b-c454-4bc0-9fb9-bf66f6f36831" alt="MOHAMMED" width="100%">
 
-<h2 align="center">Software Developer</h2>
-<h2 align="center">Product Designer</h2>
-<h2 align="center">Data Analyst</h2>
-
 <div align="center">
   <h4>
     I am a technically adept and experienced individual with a passion for education and designing innovative solutions. I bring a proactive ability to harness diverse tools and technologies to solve problems and craft engaging, informative content. Eager to leverage my skills and experience in a technical internship where I can make a meaningful impact.
