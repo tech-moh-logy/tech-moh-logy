@@ -10,6 +10,9 @@
 
 <br>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,py,nodejs,vite,supabase,figma,ps)](https://skillicons.dev)
+
+
 <!--START_SECTION-->
 
 ``` javascript
