@@ -1,16 +1,16 @@
 <img src="https://github.com/tech-moh-logy/tech-moh-logy/assets/132733865/6bf4697b-c454-4bc0-9fb9-bf66f6f36831" alt="MOHAMMED" width="100%">
 
 <div align="center">
-  <h4>
-    I am a technically adept and experienced individual with a passion for education and designing innovative solutions. I bring a proactive ability to harness diverse tools and technologies to solve problems and craft engaging, informative content. Eager to leverage my skills and experience in a technical internship where I can make a meaningful impact.
-      <br>
+  <h5>
+    I am Mohammed, affectionately known as Tiger among friends and family due to my tenacious and determined nature. I am a technically skilled and seasoned individual driven by a fervent passion for education and the creation of innovative solutions. My proactive approach enables me to adeptly utilize a diverse array of tools and technologies to tackle challenges and deliver compelling, informative content. I am enthusiastic about leveraging my expertise and experience in a technical internship, where I am poised to make a meaningful and lasting impact.
+      <br><br>
     Take a look at my portfolio to see the projects I've worked on and the skills I've developed.
-  </h4>
+  </h5>
 </div>
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,cpp,py,nodejs,vite,supabase,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,aws,html,discord,css,react,cpp,py,nodejs,vite,supabase,figma,ps,github)](https://skillicons.dev)
 
 
 <!--START_SECTION-->
