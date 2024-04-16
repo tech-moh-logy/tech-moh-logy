@@ -35,4 +35,4 @@ const mohammedU = {
 
 <!--END_SECTION>-->
 
-<sub>Legal Notice: Any unauthorized use, disclosure, distribution, downloading, forwarding, or printing of this repositories or its attachments without permission may constitute a violation of intellectual property rights and confidentiality agreements. Legal actions, including but not limited to civil litigation, may be pursued against individuals or entities found in violation of these terms. By accessing, viewing, or using this email, you acknowledge and agree to abide by these restrictions.</sub>
+<sub>Legal Notice: Any unauthorized use, disclosure, distribution, downloading, forwarding, or printing of repositories or its attachments without permission may constitute a violation of intellectual property rights and confidentiality agreements. Legal actions, including but not limited to civil litigation, may be pursued against individuals or entities found in violation of these terms. By accessing, viewing, or using this email, you acknowledge and agree to abide by these restrictions.</sub>
