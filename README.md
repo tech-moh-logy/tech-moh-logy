@@ -16,9 +16,9 @@
 <!--START_SECTION-->
 
 ``` javascript
-// Meet Mohammed T, a versatile software developer and product designer!
+// Meet Mohammed, a versatile software developer and product designer!
 
-const mohammedT = {
+const mohammed = {
   // Pronouns Mohammed uses
   pronouns: ["Developer", "Designer"],
   
